@@ -900,7 +900,7 @@
         "subject": "Fonaments DG",
         "group": "1r APGI",
         "room": "",
-        "day": "Dilluns",
+        "day": "Dimecres",
         "start": "10:30",
         "duration": 3
       },
@@ -920,8 +920,8 @@
         "subject": "Edició web",
         "group": "1r APGI",
         "room": "",
-        "day": "Dimecres",
-        "start": "11:30",
+        "day": "Divendres",
+        "start": "12:30",
         "duration": 3
       },
       {
@@ -941,7 +941,7 @@
         "group": "1r APGI",
         "room": "",
         "day": "Dilluns",
-        "start": "12:00",
+        "start": "11:00",
         "duration": 4
       },
       {
